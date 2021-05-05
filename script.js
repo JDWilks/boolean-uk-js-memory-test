@@ -155,6 +155,8 @@ function askForGuesses(howmanyGuesses) {
 
   // Step 3: Count the correctNumberOfGuesses
 // i'm not sure how to do this
+// I think i need to use Map or filter but it took so long to get to this
+// point i havn't had time to do this
 
 
 
